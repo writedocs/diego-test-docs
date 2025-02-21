@@ -55,18 +55,6 @@
               ]
             }
           ]
-        },
-        {
-          "categoryName": "References",
-          "pages": [
-            {
-              "groupName": "Example",
-              "subpages": [
-                "references/example/create-item.endpoint",
-                "references/example/get-items.endpoint"
-              ]
-            }
-          ]
         }
       ]
     }

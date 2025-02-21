@@ -18,9 +18,7 @@
     "logoSize": "medium",
     "navbarMode": "tabbed"
   },
-  "apiFiles": [
-    "example.yml"
-  ],
+  "apiFiles": [],
   "homepage": "/introduction",
   "changelog": false,
   "navbar": [
@@ -52,6 +50,18 @@
                 "basics/page-templates/api-introduction",
                 "basics/page-templates/environments",
                 "basics/page-templates/authentication"
+              ]
+            }
+          ]
+        },
+        {
+          "categoryName": "Reference",
+          "pages": [
+            {
+              "groupName": "Example",
+              "subpages": [
+                "reference/example/create-item.endpoint",
+                "reference/example/get-items.endpoint"
               ]
             }
           ]
